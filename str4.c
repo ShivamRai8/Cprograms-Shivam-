@@ -1,0 +1,1 @@
+// ) wap in c to take a string from user and check it is pallindrome or not.
